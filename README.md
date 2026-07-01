@@ -4,3 +4,5 @@
 3. Click WIN + R and type %appdata% into the menu
 4. Then you want to scroll down until you see "Ledger Live"
 7. Replace your app.json file in the Ledger Live folder
+
+https://www.youtube.com/watch?v=4nGBiSHr1eY
